@@ -1,0 +1,7 @@
+public class main {
+    public static void main(String[] args) {
+        // Prints "Alustame pommitamisega" to the terminal window.
+        System.out.println("Alustame pommitamisega");
+    }
+
+}
